@@ -5,6 +5,6 @@ Datasets for SNA examples in the book *Researching Digital Media and Society* (L
 
 ### Links
 - [Offical Gephi tutorials](https://gephi.org/users/).
-- 
+- [Gephi tutorials on YouTube by Jen Golbeck](https://www.youtube.com/playlist?list=PLk_jmmkw5S2BqnYBqF2VNPcszY93-ze49).
 
 

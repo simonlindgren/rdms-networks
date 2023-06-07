@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-06-07">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="R2-D2" label="R2-D2" />
+      <node id="CHEWBACCA" label="CHEWBACCA" />
+      <node id="C-3PO" label="C-3PO" />
+      <node id="LUKE" label="LUKE" />
+      <node id="BIGGS" label="BIGGS" />
+      <node id="LEIA" label="LEIA" />
+      <node id="BERU" label="BERU" />
+      <node id="OWEN" label="OWEN" />
+      <node id="OBI-WAN" label="OBI-WAN" />
+      <node id="HAN" label="HAN" />
+      <node id="CAMIE" label="CAMIE" />
+      <node id="DODONNA" label="DODONNA" />
+      <node id="GOLD LEADER" label="GOLD LEADER" />
+      <node id="DARTH VADER" label="DARTH VADER" />
+      <node id="MOTTI" label="MOTTI" />
+      <node id="TARKIN" label="TARKIN" />
+      <node id="GREEDO" label="GREEDO" />
+      <node id="JABBA" label="JABBA" />
+      <node id="WEDGE" label="WEDGE" />
+      <node id="RED LEADER" label="RED LEADER" />
+      <node id="RED TEN" label="RED TEN" />
+    </nodes>
+    <edges>
+      <edge source="R2-D2" target="CHEWBACCA" id="0" />
+      <edge source="R2-D2" target="C-3PO" id="1" />
+      <edge source="R2-D2" target="LUKE" id="2" />
+      <edge source="R2-D2" target="BIGGS" id="3" />
+      <edge source="R2-D2" target="LEIA" id="4" />
+      <edge source="R2-D2" target="BERU" id="5" />
+      <edge source="R2-D2" target="OWEN" id="6" />
+      <edge source="R2-D2" target="OBI-WAN" id="7" />
+      <edge source="R2-D2" target="HAN" id="8" />
+      <edge source="CHEWBACCA" target="C-3PO" id="9" />
+      <edge source="CHEWBACCA" target="LUKE" id="10" />
+      <edge source="CHEWBACCA" target="LEIA" id="11" />
+      <edge source="CHEWBACCA" target="OBI-WAN" id="12" />
+      <edge source="CHEWBACCA" target="HAN" id="13" />
+      <edge source="C-3PO" target="BIGGS" id="14" />
+      <edge source="C-3PO" target="BERU" id="15" />
+      <edge source="C-3PO" target="LUKE" id="16" />
+      <edge source="C-3PO" target="LEIA" id="17" />
+      <edge source="C-3PO" target="OWEN" id="18" />
+      <edge source="C-3PO" target="OBI-WAN" id="19" />
+      <edge source="C-3PO" target="HAN" id="20" />
+      <edge source="C-3PO" target="RED LEADER" id="21" />
+      <edge source="LUKE" target="CAMIE" id="22" />
+      <edge source="LUKE" target="BIGGS" id="23" />
+      <edge source="LUKE" target="LEIA" id="24" />
+      <edge source="LUKE" target="BERU" id="25" />
+      <edge source="LUKE" target="HAN" id="26" />
+      <edge source="LUKE" target="DODONNA" id="27" />
+      <edge source="LUKE" target="GOLD LEADER" id="28" />
+      <edge source="LUKE" target="OWEN" id="29" />
+      <edge source="LUKE" target="OBI-WAN" id="30" />
+      <edge source="LUKE" target="WEDGE" id="31" />
+      <edge source="LUKE" target="RED LEADER" id="32" />
+      <edge source="LUKE" target="RED TEN" id="33" />
+      <edge source="BIGGS" target="CAMIE" id="34" />
+      <edge source="BIGGS" target="LEIA" id="35" />
+      <edge source="BIGGS" target="GOLD LEADER" id="36" />
+      <edge source="BIGGS" target="WEDGE" id="37" />
+      <edge source="BIGGS" target="RED LEADER" id="38" />
+      <edge source="LEIA" target="DARTH VADER" id="39" />
+      <edge source="LEIA" target="BERU" id="40" />
+      <edge source="LEIA" target="HAN" id="41" />
+      <edge source="LEIA" target="OBI-WAN" id="42" />
+      <edge source="LEIA" target="MOTTI" id="43" />
+      <edge source="LEIA" target="TARKIN" id="44" />
+      <edge source="LEIA" target="RED LEADER" id="45" />
+      <edge source="BERU" target="OWEN" id="46" />
+      <edge source="OBI-WAN" target="DARTH VADER" id="47" />
+      <edge source="OBI-WAN" target="HAN" id="48" />
+      <edge source="HAN" target="GREEDO" id="49" />
+      <edge source="HAN" target="JABBA" id="50" />
+      <edge source="DODONNA" target="GOLD LEADER" id="51" />
+      <edge source="DODONNA" target="WEDGE" id="52" />
+      <edge source="GOLD LEADER" target="WEDGE" id="53" />
+      <edge source="GOLD LEADER" target="RED LEADER" id="54" />
+      <edge source="DARTH VADER" target="MOTTI" id="55" />
+      <edge source="DARTH VADER" target="TARKIN" id="56" />
+      <edge source="MOTTI" target="TARKIN" id="57" />
+      <edge source="WEDGE" target="RED LEADER" id="58" />
+      <edge source="RED LEADER" target="RED TEN" id="59" />
+    </edges>
+  </graph>
+</gexf>

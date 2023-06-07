@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-06-07">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="R2-D2" label="R2-D2" />
+      <node id="CHEWBACCA" label="CHEWBACCA" />
+      <node id="LUKE" label="LUKE" />
+      <node id="HAN" label="HAN" />
+      <node id="LEIA" label="LEIA" />
+      <node id="C-3PO" label="C-3PO" />
+      <node id="LANDO" label="LANDO" />
+      <node id="BOBA FETT" label="BOBA FETT" />
+      <node id="DARTH VADER" label="DARTH VADER" />
+      <node id="DACK" label="DACK" />
+      <node id="RIEEKAN" label="RIEEKAN" />
+      <node id="DERLIN" label="DERLIN" />
+      <node id="OBI-WAN" label="OBI-WAN" />
+      <node id="ZEV" label="ZEV" />
+      <node id="PIETT" label="PIETT" />
+      <node id="OZZEL" label="OZZEL" />
+      <node id="NEEDA" label="NEEDA" />
+      <node id="WEDGE" label="WEDGE" />
+      <node id="JANSON" label="JANSON" />
+      <node id="EMPEROR" label="EMPEROR" />
+      <node id="YODA" label="YODA" />
+    </nodes>
+    <edges>
+      <edge source="R2-D2" target="CHEWBACCA" id="0" />
+      <edge source="R2-D2" target="LUKE" id="1" />
+      <edge source="R2-D2" target="HAN" id="2" />
+      <edge source="R2-D2" target="LEIA" id="3" />
+      <edge source="R2-D2" target="C-3PO" id="4" />
+      <edge source="R2-D2" target="LANDO" id="5" />
+      <edge source="CHEWBACCA" target="C-3PO" id="6" />
+      <edge source="CHEWBACCA" target="BOBA FETT" id="7" />
+      <edge source="CHEWBACCA" target="LUKE" id="8" />
+      <edge source="CHEWBACCA" target="HAN" id="9" />
+      <edge source="CHEWBACCA" target="RIEEKAN" id="10" />
+      <edge source="CHEWBACCA" target="LEIA" id="11" />
+      <edge source="CHEWBACCA" target="DARTH VADER" id="12" />
+      <edge source="CHEWBACCA" target="LANDO" id="13" />
+      <edge source="LUKE" target="HAN" id="14" />
+      <edge source="LUKE" target="LEIA" id="15" />
+      <edge source="LUKE" target="C-3PO" id="16" />
+      <edge source="LUKE" target="DARTH VADER" id="17" />
+      <edge source="LUKE" target="DACK" id="18" />
+      <edge source="LUKE" target="LANDO" id="19" />
+      <edge source="LUKE" target="OBI-WAN" id="20" />
+      <edge source="LUKE" target="ZEV" id="21" />
+      <edge source="LUKE" target="WEDGE" id="22" />
+      <edge source="LUKE" target="YODA" id="23" />
+      <edge source="HAN" target="C-3PO" id="24" />
+      <edge source="HAN" target="DARTH VADER" id="25" />
+      <edge source="HAN" target="BOBA FETT" id="26" />
+      <edge source="HAN" target="RIEEKAN" id="27" />
+      <edge source="HAN" target="LEIA" id="28" />
+      <edge source="HAN" target="OBI-WAN" id="29" />
+      <edge source="HAN" target="ZEV" id="30" />
+      <edge source="HAN" target="LANDO" id="31" />
+      <edge source="LEIA" target="RIEEKAN" id="32" />
+      <edge source="LEIA" target="C-3PO" id="33" />
+      <edge source="LEIA" target="DERLIN" id="34" />
+      <edge source="LEIA" target="DARTH VADER" id="35" />
+      <edge source="LEIA" target="BOBA FETT" id="36" />
+      <edge source="LEIA" target="LANDO" id="37" />
+      <edge source="C-3PO" target="RIEEKAN" id="38" />
+      <edge source="C-3PO" target="BOBA FETT" id="39" />
+      <edge source="C-3PO" target="DERLIN" id="40" />
+      <edge source="C-3PO" target="DARTH VADER" id="41" />
+      <edge source="C-3PO" target="LANDO" id="42" />
+      <edge source="LANDO" target="DARTH VADER" id="43" />
+      <edge source="LANDO" target="BOBA FETT" id="44" />
+      <edge source="BOBA FETT" target="PIETT" id="45" />
+      <edge source="BOBA FETT" target="DARTH VADER" id="46" />
+      <edge source="DARTH VADER" target="PIETT" id="47" />
+      <edge source="DARTH VADER" target="OZZEL" id="48" />
+      <edge source="DARTH VADER" target="NEEDA" id="49" />
+      <edge source="DARTH VADER" target="EMPEROR" id="50" />
+      <edge source="OBI-WAN" target="YODA" id="51" />
+      <edge source="PIETT" target="OZZEL" id="52" />
+      <edge source="PIETT" target="NEEDA" id="53" />
+      <edge source="WEDGE" target="JANSON" id="54" />
+    </edges>
+  </graph>
+</gexf>
